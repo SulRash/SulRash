@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Sultan 👋
 
-<!--
-**SulRash/SulRash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Engineer working on multilingual NLP, _smol_ language modelling, huge language models, and educational AI! Previously helped build [ALLaM](https://arxiv.org/abs/2407.15390), a state-of-the-art Arabic-English language model :)
 
-Here are some ideas to get you started:
+## 📚 Recent Publications
+- [Fineweb-Edu-Ar](https://arxiv.org/abs/2411.06402) - Largest open-source machine translated Arabic educational dataset
+- [ALLaM](https://arxiv.org/abs/2407.15390) - State-of-the-art Arabic-English LLM
+- [When Benchmarks are Targets](https://aclanthology.org/2024.acl-long.744/) - Analysis of LLM evaluation sensitivity (ACL 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔍 **[huggingface-text-data-analyzer](https://github.com/SulRash/huggingface-text-data-analyzer)** - Comprehensive tool for analyzing HF datasets
+- 🎮 **[EasyRogue](https://github.com/SulRash/EasyRogue)** - Command-line roguelike + RL testbed
+- 🧪 **[minLLMTrain](https://github.com/SulRash/minLLMTrain)** - Minimal LLM training codebase
+- 🤖 **[Next-Token Agent](https://github.com/SulRash/ntaGPT)** - Training tiny LMs to play ASCII games
+- 🌱 **[Environment Encoder](https://github.com/SulRash/envenc)** - VLM-based RL environment encoding (stale)
+
+🌍 Let's connect! Find me on [LinkedIn](https://linkedin.com/in/sulrash)!
