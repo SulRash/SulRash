@@ -1,8 +1,11 @@
 # Hi there! I'm Sultan 👋
 
+[Homepage]()
+
 🤖 AI Engineer working on multilingual NLP, _smol_ language modelling, huge language models, and educational AI! Previously helped build [ALLaM](https://arxiv.org/abs/2407.15390), a state-of-the-art Arabic-English language model :)
 
 ## 📚 Recent Publications
+- [SmolTulu](https://arxiv.org/abs/2412.08347) - Highest performing sub 2B model on reasoning benchmarks with an investigation into learning rate & batch size ratios
 - [Fineweb-Edu-Ar](https://arxiv.org/abs/2411.06402) - Largest open-source machine translated Arabic educational dataset
 - [ALLaM](https://arxiv.org/abs/2407.15390) - State-of-the-art Arabic-English LLM
 - [When Benchmarks are Targets](https://aclanthology.org/2024.acl-long.744/) - Analysis of LLM evaluation sensitivity (ACL 2024)
