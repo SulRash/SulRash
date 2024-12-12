@@ -1,6 +1,6 @@
 # Hi there! I'm Sultan 👋
 
-[Homepage]()
+[Homepage](https://sulrash.github.io/)
 
 🤖 AI Engineer working on multilingual NLP, _smol_ language modelling, huge language models, and educational AI! Previously helped build [ALLaM](https://arxiv.org/abs/2407.15390), a state-of-the-art Arabic-English language model :)
 
