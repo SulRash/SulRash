@@ -2,7 +2,7 @@
 
 [Homepage](https://sulrash.github.io/)
 
-🤖 AI Engineer working on multilingual NLP, _smol_ language modelling, huge language models, and educational AI! Previously helped build [ALLaM](https://arxiv.org/abs/2407.15390), a state-of-the-art Arabic-English language model :)
+🤖 AI researcher working on multilingual NLP, _smol_ language modelling, huge language models, and educational AI! Previously helped build [ALLaM](https://arxiv.org/abs/2407.15390), a state-of-the-art Arabic-English language model :)
 
 ## 📚 Recent Publications
 - [SmolTulu](https://arxiv.org/abs/2412.08347) - Highest performing sub 2B model on reasoning benchmarks - An investigation into learning rate & batch size ratios
