@@ -17,4 +17,9 @@
 - 🤖 **[Next-Token Agent](https://github.com/SulRash/ntaGPT)** - Training tiny LMs to play ASCII games
 - 🌱 **[Environment Encoder](https://github.com/SulRash/envenc)** - VLM-based RL environment encoding (stale)
 
+## Personal Hobbies
+- I love dungeons and dragons!
+- I've been trying to learn the game engine, Godot.
+- I enjoy making music, in my spare time, on the piano.
+
 🌍 Let's connect! Find me on [LinkedIn](https://linkedin.com/in/sulrash)!
