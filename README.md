@@ -1,4 +1,4 @@
-# Hi there! I'm Sultan 👋
+# Hi there! I'm Sultan :)
 
 [Homepage](https://sulrash.github.io/)
 
